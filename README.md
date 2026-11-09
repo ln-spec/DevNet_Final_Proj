@@ -11,7 +11,6 @@ Local Installation & Execution Steps
 Follow these steps to run the interactive dashboard prototype directly on your local developer station machine:
 
 1. Install Python Libraries: Ensure you have Python installed on your device, then install required project dependencies via your terminal:
-   ```bash
    pip install streamlit pandas
    ```
 
