@@ -1,6 +1,6 @@
 ---
 
-## `README.md`
+# `README.md`
 ```markdown
 # San Rafael Disaster Alert GUI & Control Center Simulation
 
