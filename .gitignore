@@ -1,0 +1,12 @@
+# Ignore python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Ignore Terraform working directory and lock file
+.terraform/
+.terraform.lock.hcl
+
+# CRITICAL: Ignore local state files (can contain cloud secrets)
+*.tfstate
+*.tfstate.backup
