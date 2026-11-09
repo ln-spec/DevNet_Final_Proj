@@ -2,7 +2,7 @@
 
 # `README.md`
 ```markdown
-# San Rafael Disaster Alert GUI & Control Center Simulation
+San Rafael Disaster Alert GUI & Control Center Simulation
 
 This Streamlit web dashboard serves as the visual Proof of Concept (PoC) presentation layer for **Scenario E (Municipality of San Rafael)** in the CSFE 1 Final Project course suite.
 
